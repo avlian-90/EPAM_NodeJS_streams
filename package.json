@@ -1,5 +1,5 @@
 {
-  "type": "commonjs",
+  "type": "module",
   "name": "homework6_streams",
   "version": "1.0.0",
   "description": "Working with streams",
